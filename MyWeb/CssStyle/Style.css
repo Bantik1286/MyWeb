@@ -1,0 +1,23 @@
+img
+{
+	width: 350px;
+	border-radius: 100%;
+}
+table
+{
+	border-spacing: 20px;
+}
+.topDiv
+{
+	background-color: #383e56;
+	height: 300px;
+}
+p
+{
+	color: white;
+}
+h1
+{
+	
+	color:  #3b6978;
+}
